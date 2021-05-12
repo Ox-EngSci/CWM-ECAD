@@ -1,0 +1,23 @@
+#log files
+*.log
+vivado*.*
+
+#bit files
+*.bit
+
+#generated files
+*.rpt
+*.rpx
+*.cache/
+*.hw/
+*.sim/
+*.xpr/
+*.runs/
+*.ip_user_files/
+
+
+#other file formats
+*.pdf
+*.aux
+
+
